@@ -6,3 +6,4 @@ get -r $2 $3
 put -r $4 $5
 exit
 EOF
+echo "transfer completed at $(date)"
