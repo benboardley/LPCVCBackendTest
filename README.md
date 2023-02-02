@@ -2,6 +2,8 @@
 
 In this program we automate file transfer between two linux devices using Shell Scripting.
 
+In order to run these script you may have to make sure your computer recognizes them as executables which can be done using the chmod +x filename command.
+
 For the setup of this program one must make sure cron, and ssh are installed on the device, and that sftp is configured. In the setup Script cron is already installed
 and one can Remove the comment from the ssh installment to install that as well. However many Ubuntu Linux platforms already have ssh configured.
 
