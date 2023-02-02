@@ -15,6 +15,8 @@ at the user's specified hourly interval.
 
 Make sure to include the full path to the folders ex: /home/username/path/to/folder when the setup script requests as otherwise sftp may not be able to locate the folders.
 
+Anything one may wish to transfer has to be located in the specified folders.
+
 If one wishes to remove a filetransfer job from the crontab automation they can use the crontab -e command to pullup the automated scripts and then delete those that they
 wish to remove.
 
