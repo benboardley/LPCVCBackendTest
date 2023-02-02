@@ -17,3 +17,5 @@ If one wishes to remove a filetransfer job from the crontab automation they can 
 wish to remove.
 
 One can confirm file transfer by inspecting the /tmp/file as that gives an update of the files transfered and the time of execution.
+
+Here is a link to the powerpoint explaining this program: https://docs.google.com/presentation/d/1rvtnCkjNp-egwS4B4dHH2r00ddCnsS0f904cimQ6awc/edit?usp=sharing
